@@ -2,7 +2,7 @@
 
 ### Tampilan Halaman Aplikasi Flutter 
 
-| Landing Page | Register | Login |
+| Profil Sebelum Masuk | Register | Login |
 |--------------|----------|-------|
 | ![Landing Page](https://github.com/user-attachments/assets/a0a087b8-fee2-4f82-b9d8-0c9af364fde8) | ![Register](https://github.com/user-attachments/assets/7e725af7-c8f1-44c1-9d1e-0c76c3c55e99) | ![Login](https://github.com/user-attachments/assets/982082b1-bea8-4f4d-96b3-a58b1130467a) |
 
